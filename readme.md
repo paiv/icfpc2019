@@ -14,7 +14,7 @@ Implementation
 
 * C++, Python
 
-Not much beyond greedy search, but still fun.
+Little beyond greedy search, but still fun.
 
 
 Results
