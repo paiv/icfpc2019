@@ -3,7 +3,7 @@ set -e
 
 app="${1:-icfpc}"
 
-python -m venv ".venv/$app"
+python3 -m venv ".venv/$app"
 
 . activate
 
