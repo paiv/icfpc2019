@@ -22,4 +22,8 @@ Results
 
 #### Lightning
 
+<img src="rank-lightning.png">
+
 #### Full
+
+<img src="rank-full.png">
